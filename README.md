@@ -19,4 +19,6 @@ Just like any other Quake mod. Get a release zip, extract the ohq directory insi
 
 This is only intended for usage with id1, it won't work with maps/mods that have their own progs.dat file.
 
+Works on vkquake and quakespasm-spiked. Should work on any engine, though.
+
 I compiled it using [FTEQCC](https://fte.triptohell.info/downloads), I don't know much about other compilers.
