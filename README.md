@@ -8,7 +8,7 @@ All health pickups and armor pickups are consumed without granting any benefit, 
 
 You can still drown.
 
-I don't know if it is possible to clear the game with this mod. I know [Episode 1 can be done on Nightmare](https://www.youtube.com/watch?v=_Atl0SZOwb8), and I know that *one* forced drowning spot in The Wizard's Manse can be biosuit'd by a particularly nimble player.
+In theory, it is possible to clear the game with this mod. All secrets may be a different matter. Yes, that *one* forced drowning spot in The Wizard's Manse can actually be done legit. Here's [Episode 1 done on Nightmare](https://www.youtube.com/watch?v=_Atl0SZOwb8).
 
 ## Usage
 
